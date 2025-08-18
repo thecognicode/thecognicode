@@ -11,7 +11,7 @@
 - **Academic Website** — GitHub Pages with CV, publications, and portfolio.  
 
 ### Open Source Contributions
-- **Mozilla Common Voice** — ongoing contribution of recordings and validations to the open speech dataset.[Link](https://commonvoice.mozilla.org/ru/dashboard/stats)
+- **Mozilla Common Voice** — ongoing contribution of recordings and validations to the open speech dataset. [Link](https://commonvoice.mozilla.org/ru/dashboard/stats)
 
 
 
