@@ -1,4 +1,4 @@
-## Привет!💫🌟✨
+## Привет! Hallo! Hi! Сәлем! Bonjour!💫🌟✨
 
 ### About Me
 - Pursuing professional retraining in **Computational Linguistics** at the Higher School of Economics (HSE, Moscow).  
